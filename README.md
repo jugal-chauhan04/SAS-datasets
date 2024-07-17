@@ -7,7 +7,8 @@ The objective of this project is to create a dataset in SAS using multiple raw d
 
 Let's read a small sample (shown below) of raw data into SAS.  
 
-<img width="434" alt="2024-07-17" src="https://github.com/user-attachments/assets/d06cc275-735a-4878-93c5-dd39784d5706">  
+<img width="351" alt="2024-07-17 (2)" src="https://github.com/user-attachments/assets/d8ace4a1-7ca1-4410-9727-881d8eb6ab57">
+
 
 We will read this data file into SAS using following command.  
 ```SAS
